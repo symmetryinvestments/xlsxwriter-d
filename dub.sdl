@@ -1,0 +1,7 @@
+name "xlsxwriter-d"
+description "Bindings to libxlsxwriter C Library"
+authors "Laeeth Isharc"
+copyright "Copyright © 2018, Laeeth Isharc"
+license "proprietary"
+libs "xlsxwriter"
+targetType "library"
